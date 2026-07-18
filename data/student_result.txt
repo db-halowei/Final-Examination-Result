@@ -1,0 +1,260 @@
+******************************************************STUDENT 1******************************************************
+
+
+
+Name: Ben Affleck
+Id: 1201237
+Course: IA
+Phone No: 432-4579
+Current CGPA: 3.42368
+Total Credits Earned: 19
+
+--------------------------------------------------PAST EXAM RESULT:--------------------------------------------------
+
+
+May 2012 Exam Results: 
+
+2 subjects taken.
+___________________________________________________________________________________
+Subject Code	Subject Name                       Credit Hours	Grade 	Grade Point
+___________________________________________________________________________________
+UCCD1024	DATA_STRUCTURES_AND_ALGORITHMIC_PROBLEM_SOLVING      4	   A	4.00000
+UCCD2502	INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING      3	   A-	3.67000
+GPA: 3.85857
+
+
+
+
+Oct 2013 Exam Results: 
+
+2 subjects taken.
+___________________________________________________________________________________
+Subject Code	Subject Name                       Credit Hours	Grade 	Grade Point
+___________________________________________________________________________________
+UCCM1353	BASIC_ALGEBRA                            6	   B-	2.67000
+UCCD1363	DISCRETE_MATHS                           6	   A-	3.67000
+GPA: 3.17000
+
+
+******************************************************STUDENT 2******************************************************
+
+
+
+Name: James Chao
+Id: 1300114
+Course: CS
+Phone No: 880-8800
+Current CGPA: 4.00000
+Total Credits Earned: 36
+
+--------------------------------------------------PAST EXAM RESULT:--------------------------------------------------
+
+
+Jan 2013 Exam Results: 
+
+3 subjects taken.
+___________________________________________________________________________________
+Subject Code	Subject Name                       Credit Hours	Grade 	Grade Point
+___________________________________________________________________________________
+UCCD1004	PROGRAMMING_CONCEPTS_AND_DESIGN          4	   A	4.00000
+UCCD1024	DATA_STRUCTURES_AND_ALGORITHMIC_PROBLEM_SOLVING      4	   A	4.00000
+UCCD2502	INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING      4	   A	4.00000
+GPA: 4.00000
+
+
+
+
+May 2013 Exam Results: 
+
+3 subjects taken.
+___________________________________________________________________________________
+Subject Code	Subject Name                       Credit Hours	Grade 	Grade Point
+___________________________________________________________________________________
+UCCN1004	DATA_COMMUNICATIONS_AND_NETWORKING       4	   A	4.00000
+UCCD1203	DATABASE_DEVELOPMENT_AND_APPLICATIONS      4	   A	4.00000
+UCCD2003	OBJECT_ORIENTED                          4	   A+	4.00000
+GPA: 4.00000
+
+
+
+
+Oct 2013 Exam Results: 
+
+2 subjects taken.
+___________________________________________________________________________________
+Subject Code	Subject Name                       Credit Hours	Grade 	Grade Point
+___________________________________________________________________________________
+UCCM1353	BASIC_ALGEBRA                            6	   A+	4.00000
+UCCD1363	DISCRETE_MATHS                           6	   A+	4.00000
+GPA: 4.00000
+
+
+******************************************************STUDENT 3******************************************************
+
+
+
+Name: Martin Edwards
+Id: 1300320
+Course: IR
+Phone No: 320-3200
+Current CGPA: 0.00000
+Total Credits Earned: 0
+
+--------------------------------------------------PAST EXAM RESULT:--------------------------------------------------
+
+THIS STUDENT HAVEN'T TAKEN ANY EXAM YET
+******************************************************STUDENT 4******************************************************
+
+
+
+Name: Matt Damon
+Id: 1200233
+Course: CS
+Phone No: 790-3233
+Current CGPA: 3.59429
+Total Credits Earned: 14
+
+--------------------------------------------------PAST EXAM RESULT:--------------------------------------------------
+
+
+Jan 2013 Exam Results: 
+
+3 subjects taken.
+___________________________________________________________________________________
+Subject Code	Subject Name                       Credit Hours	Grade 	Grade Point
+___________________________________________________________________________________
+UCCD1004	PROGRAMMING_CONCEPTS_AND_DESIGN          4	   B+	3.33000
+UCCD1024	DATA_STRUCTURES_AND_ALGORITHMIC_PROBLEM_SOLVING      4	   A	4.00000
+UCCD2502	INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING      3	   A-	3.67000
+GPA: 3.66636
+
+
+
+
+May 2012 Exam Results: 
+
+1 subjects taken.
+___________________________________________________________________________________
+Subject Code	Subject Name                       Credit Hours	Grade 	Grade Point
+___________________________________________________________________________________
+UCCD2502	INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING      3	   B+	3.33000
+GPA: 3.33000
+
+
+******************************************************STUDENT 5******************************************************
+
+
+
+Name: Mortimer Smith
+Id: 1401851
+Course: CN
+Phone No: 840-0210
+Current CGPA: 3.14143
+Total Credits Earned: 7
+
+--------------------------------------------------PAST EXAM RESULT:--------------------------------------------------
+
+
+May 2014 Exam Results: 
+
+2 subjects taken.
+___________________________________________________________________________________
+Subject Code	Subject Name                       Credit Hours	Grade 	Grade Point
+___________________________________________________________________________________
+UCCD1024	DATA_STRUCTURES_AND_ALGORITHMIC_PROBLEM_SOLVING      4	   B	3.00000
+UCCD2502	INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING      3	   B+	3.33000
+GPA: 3.14143
+
+
+******************************************************STUDENT 6******************************************************
+
+
+
+Name: Richard Sanchez
+Id: 1400110
+Course: CT
+Phone No: 270-9290
+Current CGPA: 4.00000
+Total Credits Earned: 36
+
+--------------------------------------------------PAST EXAM RESULT:--------------------------------------------------
+
+
+Jan 2014 Exam Results: 
+
+2 subjects taken.
+___________________________________________________________________________________
+Subject Code	Subject Name                       Credit Hours	Grade 	Grade Point
+___________________________________________________________________________________
+UCCM1353	BASIC_ALGEBRA                            6	   A	4.00000
+UCCD1363	DISCRETE_MATHS                           6	   A+	4.00000
+GPA: 4.00000
+
+
+
+
+May 2014 Exam Results: 
+
+3 subjects taken.
+___________________________________________________________________________________
+Subject Code	Subject Name                       Credit Hours	Grade 	Grade Point
+___________________________________________________________________________________
+UCCD1004	PROGRAMMING_CONCEPTS_AND_DESIGN          4	   A	4.00000
+UCCD1024	DATA_STRUCTURES_AND_ALGORITHMIC_PROBLEM_SOLVING      4	   A	4.00000
+UCCD2502	INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING      4	   A	4.00000
+GPA: 4.00000
+
+
+
+
+Oct 2014 Exam Results: 
+
+3 subjects taken.
+___________________________________________________________________________________
+Subject Code	Subject Name                       Credit Hours	Grade 	Grade Point
+___________________________________________________________________________________
+UCCN1004	DATA_COMMUNICATIONS_AND_NETWORKING       4	   A	4.00000
+UCCD1203	DATABASE_DEVELOPMENT_AND_APPLICATIONS      4	   A	4.00000
+UCCD2003	OBJECT_ORIENTED                          4	   A+	4.00000
+GPA: 4.00000
+
+
+******************************************************STUDENT 7******************************************************
+
+
+
+Name: Salma Hayek
+Id: 1300899
+Course: IB
+Phone No: 790-0000
+Current CGPA: 3.60000
+Total Credits Earned: 20
+
+--------------------------------------------------PAST EXAM RESULT:--------------------------------------------------
+
+
+May 2012 Exam Results: 
+
+3 subjects taken.
+___________________________________________________________________________________
+Subject Code	Subject Name                       Credit Hours	Grade 	Grade Point
+___________________________________________________________________________________
+UCCN1004	DATA_COMMUNICATIONS_AND_NETWORKING       4	   B	3.00000
+UCCD1203	DATABASE_DEVELOPMENT                     4	   A-	3.67000
+UCCD2003	OBJECT_ORIENTED                          4	   A	4.00000
+GPA: 3.55667
+
+
+
+
+Oct 2012 Exam Results: 
+
+2 subjects taken.
+___________________________________________________________________________________
+Subject Code	Subject Name                       Credit Hours	Grade 	Grade Point
+___________________________________________________________________________________
+UCCD1004	PROGRAMMING_CONCEPTS_AND_DESIGN          4	   B+	3.33000
+UCCD1024	DATA_STRUCTURES_AND_ALGORITHMIC_PROBLEM_SOLVING      4	   A	4.00000
+GPA: 3.66500
+
+
